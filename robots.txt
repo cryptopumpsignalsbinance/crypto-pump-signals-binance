@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /bin/
+Disallow: /tmp/
+Sitemap: https://cryptopumpsignalsbinance.github.io/crypto-pump-signals-binance-ai/sitemap.xml
